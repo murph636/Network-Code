@@ -2,8 +2,8 @@ from netmiko import ConnectHandler
 import getpass
 import subprocess
 
-username = "allenmurphy"
-password = "M03t5you$"
+username = ""
+password = ""
 #DEVICE_TYPE = 'cisco_nxos'
 #DEVICE_TYPE = 'cisco_asa'
 DEVICE_TYPE = 'cisco_ios'
